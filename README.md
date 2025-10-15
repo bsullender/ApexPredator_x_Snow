@@ -1,9 +1,12 @@
 Ben Sullender
-Sept 2025
+October 2025
 
-This code and input data accompany the manuscript "Apex predators exploit advantagenous snow conditions across hunting modes," currently in review at Journal of Animal Ecology.
+This code and input data accompany the manuscript "Apex predators exploit advantagenous snow conditions across hunting modes," currently accepted for publication at Journal of Animal Ecology. The full list of authors is as follows:
+Benjamin K. Sullender, Taylor R. Ganz, Ross Mower, Jessica D. Lundquist, Brian N. Kertson, Thomas M. Newsome, Aaron J. Wirsing, and Laura R. Prugh.
+
 
 Input data are anonymized, without lat/long coordinates, but can still be used with the code to reproduce our analyses. Please refer to our manuscript for further details.
+Complete wildlife telemetry data supporting this research are sensitive and not available publicly, but are available to qualified researchers by contacting the Washington Department of Fish and Wildlife and requesting telemetry data from the Washington Predator–Prey Project.
 
 File descriptions:
 1) cougarKills.csv - anonymized cougar kill site location data frame, 2533 rows x 9 cols. For every actual cougar kill (case = 1), we generated 5 random locations (case = 0) for comparison.
